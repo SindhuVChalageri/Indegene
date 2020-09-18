@@ -1,0 +1,232 @@
+@media only screen and (max-width: 768px){
+    body{
+        width: 100%;
+    }
+    header{
+        max-width: 100%;
+    }
+   
+    
+}
+
+
+* {
+  box-sizing: border-box;
+}
+
+header{
+   height: 40px;
+}
+header>strong:hover{
+    color: burlywood;
+}
+header>img{
+    width: 150px;
+    height: 40px;
+  
+   
+}
+
+header>strong{
+   // margin-left: 50px;
+    margin:-200px 0px 0px 50px;
+   
+}
+
+header>input{
+    margin-left: 50px;
+}
+
+#home{
+    margin-left: 400px;
+   
+}
+
+section{
+    background-color:#003366;
+  
+}
+
+/*
+section>p{
+    margin-left: 200px;
+    color: whitesmoke;
+   
+   
+}
+*/
+
+.sec1{
+     padding-top: 20px;
+     font-size: 20px;
+    margin-left: 200px;
+    color: aliceblue;
+}
+.sec2{
+    margin-left: 200px;
+    color:#0066CC;
+
+}
+
+button{
+    background-color: #0066CC;
+    color: aliceblue;
+    margin-left: 200px;
+    
+}
+section>img{
+    width: 200px;
+    margin-left: 800px;
+    margin-top: -100px
+}
+
+#last{
+    background-color:#003366;
+    color: aliceblue;
+    height: 60px;
+    text-align: center;
+    padding-top: 10px;
+}
+
+#middle{
+   background-color: beige;
+/*    height: 300px;*/
+}
+#middle1{
+    background-color: white;
+    width: 200px;
+    height: 250px;
+    text-align: center;
+    margin-left: 100px;
+    
+}
+#mid1{
+    background-color: #0066CC;
+    height: 30px;
+    padding-top: 4px;
+    
+}
+#mid2{
+    color: gray;
+}
+#middle2{
+    background-color: white;
+    width: 200px;
+    height: 250px;
+    text-align: center;
+    margin-left: 400px;
+    margin-top: -266px
+}
+#middle3{
+    background-color: white;
+    width: 200px;
+    height: 250px;
+    text-align: center;
+    margin-left: 700px;
+    margin-top: -266px
+}
+#middle4{
+    background-color: white;
+    width: 200px;
+    height: 250px;
+    text-align: center;
+    margin-left: 1000px;
+    margin-top: -266px
+}
+
+
+
+
+
+
+footer{
+    background-color: black;
+      height:200px;
+}
+
+#company{
+    height: 120px;
+    background-color: black;
+    color: aliceblue;
+    width: 150px;
+    margin-left: 100px;
+    padding-top: 20px;
+}
+#company>p{
+    background-color: gray;
+    
+}
+#ourservices{
+    padding-top: 20px;
+    height: 120px;
+    background-color: black;
+    color: aliceblue;
+    width: 200px;
+    margin-left: 400px;
+    margin-top: -120px;
+    font-size: 15px
+}
+#ourservices>p{
+    background-color: gray;
+    
+}
+#contactus{
+    height: 120px;
+    background-color: black;
+    color: aliceblue;
+    width: 150px;
+    margin-left: 700px;
+    padding-top: 20px;
+    margin-top: -120px
+}
+
+#con{
+    background-color: gray;
+    
+}
+
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 40%;
+}
+
+li:hover{
+     color: gray;
+    text-decoration: none;
+}
+
+#image{
+    margin-left: 1000px;
+    margin-top: -90px;
+    width: 150px;
+}
+#middle1:hover{
+    color: antiquewhite
+}#middle2:hover{
+    color: antiquewhite
+}#middle3:hover{
+    color: antiquewhite
+}#middle4:hover{
+    color: antiquewhite
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
